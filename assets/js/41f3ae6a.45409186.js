@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowledge=self.webpackChunkknowledge||[]).push([[274],{8080:e=>{e.exports=JSON.parse('{"title":"Tech","slug":"/category/tech","permalink":"/knowledge/category/tech","navigation":{"previous":{"title":"Workstation Setup","permalink":"/knowledge/workstation"},"next":{"title":"Awesome List","permalink":"/knowledge/tech/awesome-list"}}}')}}]);
