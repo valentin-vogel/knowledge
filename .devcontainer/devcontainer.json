@@ -1,5 +1,10 @@
 {
 	"name": "Knowledge",
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
-	"postCreateCommand": "npm install"
+	"postCreateCommand": "npm install",
+	"mounts": [
+		"source=${localEnv:HOME}/.ssh/id_ed25519,target=/home/node/.ssh/id_ed25519,type=bind,consistency=cached",
+		"source=${localEnv:HOME}/.ssh/id_ed25519.pub,target=/home/node/.ssh/id_ed25519.pub,type=bind,consistency=cached",
+		"source=${localEnv:HOME}/.ssh/known_hosts,target=/home/node/.ssh/known_hosts,type=bind,consistency=cached"
+	]
 }
