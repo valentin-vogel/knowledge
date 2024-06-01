@@ -68,6 +68,8 @@ The ultimate goal is to checkmate your opponent's king, which means:
 - Opening 4: King's Gambit
 - Opening 5: Ruy Lopez Berlin
 
+More Openings on [chess.com](https://www.chess.com/openings)
+
 ### Advanced Strategies
 
 #### Strategy 1: The Minority Attack
