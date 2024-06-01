@@ -24,7 +24,6 @@ A list of tools and resources.
 | [Rudder](https://github.com/rudderlabs/rudder-server)                 | :+1: | Analytics             | Open-source Segment alternative.                                 |
 | [Embrace](https://embrace.io/)                                        |      | Apps, Testing         | Like FullStory for Apps.                                         |
 | [GoAccess](https://goaccess.io/)                                      | :+1: | Logging               | Analytics for Access Logs.                                       |
-| [CodeServer](https://github.com/cdr/code-server)                      | :+1: | Tools                 | Run VS Code on a remote server.                                  |
 | [Tailwind](https://tailwindcss.com/)                                  | :+1: | Design, CSS           | A Utility-First CSS Framework                                    |
 | [Fast](https://fast.io/)                                              |      | hosting, static       | Hosting for Files, Images, Apps, etc                             |
 | [ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy)           | :+1: | hosting, static       | Deploy Static Websites to IPFS                                   |
