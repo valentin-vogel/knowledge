@@ -37,19 +37,17 @@ A list of tools and resources.
 | [Flowy](https://github.com/alyssaxuu/flowy)                           | :+1: | Charts                | Create flowcharts                                                |
 | [AutoSSL](https://autossl.co/)                                        |      | SSL                   | SSL for SaaS Providers                                           |
 | [bash-lib](https://github.com/cyberark/bash-lib)                      | :+1: | Bash                  | Library for bash utility methods and tools                       |
-| [Redily](https://www.redily.app/)                                     |      | Redis                 | Redis Gui                                                        |
-| [Polynote](https://polynote.org/)                                     | :+1: | Notebook              | IDE-inspired polyglot notebook                                   |
 | [RawGraphs](https://github.com/rawgraphs/raw)                         | :+1: | Charts                | Vector-based visualizations from spreadsheets                    |
-| [Zero](https://github.com/sinclairzx81/zero)                          | :+1: | Fun                   | Terminal 3D graphics                                             |
 | [Spider](https://tryspider.com/)                                      |      | Scraping              | Easy and cheap way to scrape                                     |
 | [DiagramJS](https://github.com/graphql-editor/diagram)                | :+1: | Charts                | Node diagrams and graphs                                         |
 | [Spotify TUI](https://github.com/Rigellute/spotify-tui)               | :+1: | Fun                   | A Spotify client for the terminal                                |
+| [Spotube](https://github.com/KRTirtho/spotube)                        | :+1: | Fun                   | A Spotify client                                                 |
+| [Spicetify](https://github.com/spicetify/cli)                         | :+1: | Fun                   | A Spotify client                                                 |
 | [imgproxy](https://github.com/imgproxy/imgproxy)                      | :+1: | Image compression     | Standalone server for resizing and converting remote images      |
 | [Streamlit](https://github.com/streamlit/streamlit/)                  | :+1: | ML, Notebook          | The fastest way to build custom ML tools                         |
 | [TaskLemon](https://github.com/cykelero/tasklemon)                    | :+1: | File Manipulation     | JS Alternative to Bash Scripting                                 |
 | [ShapeForm](https://github.com/TakeShape/shape-form)                  | :+1: | Forms                 | Schema Driven Forms                                              |
 | [React JSON Form](https://github.com/rjsf-team/react-jsonschema-form) | :+1: | Forms                 | Schema Driven Forms                                              |
-| [Frontier Forms](https://frontier-forms.dev/)                         | :+1: | Forms                 | Schema Driven Forms                                              |
 | [Uniforms](https://github.com/vazco/uniforms)                         | :+1: | Forms                 | Schema Driven Forms                                              |
 | [Draftbit](https://draftbit.com/)                                     |      | Apps, NoCode          | Build apps from the browser                                      |
 | [Webhook.site](https://webhook.site/)                                 |      | Webhooks, Testing     | easily test webhooks and other types of HTTP requests            |
