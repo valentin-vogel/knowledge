@@ -7,19 +7,19 @@ A list for imagess and photos.
 
 ## Stock photos / videos
 
-| Name                                        | Free                    | Comment |
-| :------------------------------------------ | :---------------------- | :------ |
-| [Adobe Stock](https://stock.adobe.com/)     |                         |         |
-| [Unsplash](https://unsplash.com/)           | :thumbsup:              |         |
-| [GettyImages](https://www.gettyimages.de/)  |                         |         |
-| [picjumbo](https://picjumbo.com/)           | :thumbsup: / :moneybag: |         |
-| [Little Visuals](https://littlevisuals.co/) | :thumbsup:              |         |
-| [New Old Stock](https://nos.twnsnd.co/)     | :thumbsup:              |         |
-| [Pexels](https://www.pexels.com/)           |                         |         |
-| [Pixabay](https://pixabay.com/)             | :thumbsup: / :moneybag: |         |
-| [Freepik](https://de.freepik.com/)          |                         |         |
-| [storyblocks](https://www.storyblocks.com/) |                         |         |
-| [Coverr](https://coverr.co/)                |                         |         |
+| Name                                        | Free              | Comment |
+| :------------------------------------------ | :---------------- | :------ |
+| [Adobe Stock](https://stock.adobe.com/)     |                   |         |
+| [Unsplash](https://unsplash.com/)           | :+1:              |         |
+| [GettyImages](https://www.gettyimages.de/)  |                   |         |
+| [picjumbo](https://picjumbo.com/)           | :+1: / :moneybag: |         |
+| [Little Visuals](https://littlevisuals.co/) | :+1:              |         |
+| [New Old Stock](https://nos.twnsnd.co/)     | :+1:              |         |
+| [Pexels](https://www.pexels.com/)           |                   |         |
+| [Pixabay](https://pixabay.com/)             | :+1: / :moneybag: |         |
+| [Freepik](https://de.freepik.com/)          |                   |         |
+| [storyblocks](https://www.storyblocks.com/) |                   |         |
+| [Coverr](https://coverr.co/)                |                   |         |
 
 ## Mockups
 
@@ -54,7 +54,7 @@ A list for imagess and photos.
 
 ## Pattern
 
-| Name                                                   | Free       | Comment |
-| :----------------------------------------------------- | :--------- | :------ |
-| [LS Graphics](https://products.ls.graphics/paaatterns) |            |         |
-| [HeroPatterns](https://heropatterns.com/)              | :thumbsup: |         |
+| Name                                                   | Free | Comment |
+| :----------------------------------------------------- | :--- | :------ |
+| [LS Graphics](https://products.ls.graphics/paaatterns) |      |         |
+| [HeroPatterns](https://heropatterns.com/)              | :+1: |         |
