@@ -64,6 +64,7 @@ Important tooling everyone shoud know.
 - [Solo](https://www.solo.io/)
 - [Spectro Cloud](https://www.spectrocloud.com/)
 - [Devtron](https://devtron.ai/)
+- [KOPS](https://github.com/kubernetes/kops)
 
 ## More resources
 
