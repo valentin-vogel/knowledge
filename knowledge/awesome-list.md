@@ -80,3 +80,4 @@ A list of tools and resources.
 | [GrowthBook](https://www.growthbook.io/)                              | :+1: | Feature Flags         | Feature Flags                                                    |
 | [Chatwoot](https://www.chatwoot.com/)                                 | :+1: |                       | Customer Engagement Platform                                     |
 | [Bytebase](https://www.bytebase.com/)                                 | :+1: | Database              | Database DevOps Platform                                         |
+| [Akeneo](https://www.akeneo.com/)                                     | :+1: |                       | Enterprise PIM                                                   |

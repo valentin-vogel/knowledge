@@ -15,3 +15,4 @@
 | [RESTHeart](https://restheart.org/)                     | :+1: |         |
 | [Hasura](https://hasura.io/)                            |      |         |
 | [GraphQLite](https://github.com/relatedcode/GraphQLite) | :+1: |         |
+| [PocketBase](https://pocketbase.io/)                    | :+1: |         |
