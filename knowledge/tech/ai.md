@@ -19,6 +19,8 @@
 - [Continue](https://www.continue.dev/)
 - [Github Copilot](https://github.com/features/copilot)
 - [Codium.ai](https://codium.ai/)
+- [Tabnine](https://www.tabnine.com/)
+- [Codeium](https://codeium.com/)
 
 ## Recommended Models
 
@@ -31,3 +33,7 @@
 
 - [Chatpad](https://github.com/deiucanta/chatpad)
 - [Openchat-ui](https://github.com/OpenOrca/openchat-ui)
+
+## More
+
+- [Perplexity](https://www.perplexity.ai/)

@@ -9,3 +9,4 @@
 | [Keycloak](https://www.keycloak.org/) |         |
 | [Authelia](https://www.authelia.com/) |         |
 | [Ory](https://www.ory.sh/)            |         |
+| [FusionAuth](https://fusionauth.io/)  |         |

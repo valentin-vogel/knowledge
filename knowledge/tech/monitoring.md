@@ -22,3 +22,5 @@ A list of awesome monitoring tools.
 | [Sensu](https://sensu.io/)                                  |      |         |
 | [Sematext](https://sematext.com/)                           |      |         |
 | [Logz](https://logz.io/)                                    |      |         |
+| [Cronitor](https://cronitor.io/)                            |      |         |
+| [Uptimerobot](https://uptimerobot.com/)                     |      |         |

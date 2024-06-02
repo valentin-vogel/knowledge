@@ -21,7 +21,7 @@ A list of tools and resources.
 | [BravoApp](https://www.bravostudio.app/)                              |      | NoCode, Figma, App    | Turn Figma prototypes into native iOS & Android apps instantly   |
 | [Supernova](https://supernova.io)                                     |      | NoCode, App           | Convert Sketch Flutter, iOS, Android and React Native apps.      |
 | [CoScreen](https://www.coscreen.co/)                                  |      | Remote, Collaboration | Turns your secondary display into your joint team desktop        |
-| [Rudder](https://github.com/rudderlabs/rudder-server)                 | :+1: | Analytics             | Open-source Segment alternative.                                 |
+| [Rudderstack](https://github.com/rudderlabs/rudder-server)            | :+1: | Analytics             | Open-source Segment alternative.                                 |
 | [Embrace](https://embrace.io/)                                        |      | Apps, Testing         | Like FullStory for Apps.                                         |
 | [GoAccess](https://goaccess.io/)                                      | :+1: | Logging               | Analytics for Access Logs.                                       |
 | [Tailwind](https://tailwindcss.com/)                                  | :+1: | Design, CSS           | A Utility-First CSS Framework                                    |
@@ -43,7 +43,6 @@ A list of tools and resources.
 | [Spotube](https://github.com/KRTirtho/spotube)                        | :+1: | Fun                   | A Spotify client                                                 |
 | [Spicetify](https://github.com/spicetify/cli)                         | :+1: | Fun                   | A Spotify client                                                 |
 | [imgproxy](https://github.com/imgproxy/imgproxy)                      | :+1: | Image compression     | Standalone server for resizing and converting remote images      |
-| [Streamlit](https://github.com/streamlit/streamlit/)                  | :+1: | ML, Notebook          | The fastest way to build custom ML tools                         |
 | [TaskLemon](https://github.com/cykelero/tasklemon)                    | :+1: | File Manipulation     | JS Alternative to Bash Scripting                                 |
 | [ShapeForm](https://github.com/TakeShape/shape-form)                  | :+1: | Forms                 | Schema Driven Forms                                              |
 | [React JSON Form](https://github.com/rjsf-team/react-jsonschema-form) | :+1: | Forms                 | Schema Driven Forms                                              |
@@ -57,3 +56,27 @@ A list of tools and resources.
 | [Playwright](https://playwright.dev/)                                 | :+1: | Testing               | Node library to automate Chromium, Firefox and WebKit            |
 | [Umami](https://umami.is/)                                            | :+1: | Analytics             | simple, fast, website analytics alternative to Google Analytics. |
 | [Markdown Documentation](https://www.markdownguide.org/basic-syntax/) | :+1: | Markdown              | Most complete markdown documentation                             |
+| [Rocket Chat](https://rocket.chat/)                                   | :+1: |                       |                                                                  |
+| [GitBook](https://www.gitbook.com/)                                   | :+1: |                       |                                                                  |
+| [Fossa](https://fossa.com/)                                           |      |                       |                                                                  |
+| [ImgIX](https://www.imgix.com/)                                       |      |                       |                                                                  |
+| [Bit](https://bit.dev/)                                               |      |                       | Build and reuse components at lightning speed.                   |
+| [Segment](https://segment.com/)                                       |      |                       | Customer Data Platform                                           |
+| [Iterable](https://iterable.com/)                                     |      |                       | Customer Data Platform                                           |
+| [Coda](https://coda.io/)                                              |      |                       | Docs for teams                                                   |
+| [Perspective](https://perspective.co/)                                |      |                       | Funnels                                                          |
+| [Notion](https://www.notion.so/)                                      |      |                       | A Workspace tool                                                 |
+| [Hubspot](https://www.hubspot.de/)                                    |      |                       | All-in-One CRM, Marketing and Service Platform                   |
+| [Reply](https://reply.io/)                                            |      |                       | Sales Automation and Engagement Platform                         |
+| [Heyflow](https://heyflow.app/)                                       |      |                       | Clickflows                                                       |
+| [Oxylabs](https://oxylabs.io/)                                        |      |                       | Proxy Service                                                    |
+| [Apify](https://apify.com/)                                           | :+1: |                       | Web Scraping                                                     |
+| [BotPress](https://botpress.com/)                                     |      |                       | AI Agent Builder                                                 |
+| [Mixpanel](https://mixpanel.com/)                                     |      |                       | Product Analytics                                                |
+| [PostHog](https://posthog.com/)                                       | :+1: |                       | Product Analytics                                                |
+| [MapBox](https://www.mapbox.com/)                                     |      |                       | Location intelligence for business                               |
+| [Flagsmith](https://flagsmith.com/)                                   | :+1: | Feature Flags         | Feature Flags and Remote Config                                  |
+| [Unleash](https://www.getunleash.io/)                                 | :+1: | Feature Flags         | Feature Flags                                                    |
+| [GrowthBook](https://www.growthbook.io/)                              | :+1: | Feature Flags         | Feature Flags                                                    |
+| [Chatwoot](https://www.chatwoot.com/)                                 | :+1: |                       | Customer Engagement Platform                                     |
+| [Bytebase](https://www.bytebase.com/)                                 | :+1: | Database              | Database DevOps Platform                                         |

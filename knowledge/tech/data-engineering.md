@@ -23,6 +23,8 @@ ETL / ELT = Extract Transform Load
 | [Stitch](https://www.stitchdata.com/)         |      | Move data from multiple sources into a data warehouse     |
 | [Meltano](https://meltano.com/)               | :+1: |                                                           |
 | [Hevo](https://hevodata.com/)                 |      | Automated Data Pipelines to Redshift, BigQuery, Snowflake |
+| [Rivery](https://rivery.io/)                  |      | ETL Pipelines                                             |
+| [Fivetran](https://www.fivetran.com/)         |      | ETL Pipelines                                             |
 
 ## Event Streaming & Data Streams
 
@@ -46,6 +48,13 @@ ETL / ELT = Extract Transform Load
 | Name                               | OSS | Comment                             |
 | :--------------------------------- | :-- | :---------------------------------- |
 | [Streamlit](https://streamlit.io/) |     | Build and share data apps in python |
+
+## Notebooks
+
+| Name                                    | OSS | Comment |
+| :-------------------------------------- | :-- | :------ |
+| [Observable](https://observablehq.com/) |     |         |
+| [Deepnote](https://deepnote.com/)       |     |         |
 
 ## More resources
 
