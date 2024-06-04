@@ -3,15 +3,16 @@
 
 # Data-Engineering
 
-ETL / ELT = Extract Transform Load
+Data engineering is the process of designing, building, and maintaining large-scale data systems that can collect, store, process, and analyze massive amounts of data from various sources. It involves a deep understanding of computer science, mathematics, and domain-specific knowledge to create robust, scalable, and efficient data processing systems.
 
 ## Leading Platforms
 
-| Name                                      | OSS | Comment |
-| :---------------------------------------- | :-- | :------ |
-| [Snowflake](https://www.snowflake.com/)   |     |         |
-| [Talend](https://www.talend.com/)         |     |         |
-| [Databricks](https://www.databricks.com/) |     |         |
+| Name                                        | OSS | Comment |
+| :------------------------------------------ | :-- | :------ |
+| [Snowflake](https://www.snowflake.com/)     |     |         |
+| [Talend](https://www.talend.com/)           |     |         |
+| [Databricks](https://www.databricks.com/)   |     |         |
+| [SingleStore](https://www.singlestore.com/) |     |         |
 
 ## ETL / ELT
 
@@ -20,8 +21,8 @@ ETL / ELT = Extract Transform Load
 | [Apache Airflow](https://airflow.apache.org/) | :+1: | Programmatically author, schedule and monitor workflows.  |
 | [Airbyte](https://airbyte.com/)               | :+1: | ETL Pipelines                                             |
 | [Dagster](https://dagster.io/)                | :+1: | Cloud-native orchestrator for data pipelines              |
-| [Stitch](https://www.stitchdata.com/)         |      | Move data from multiple sources into a data warehouse     |
 | [Meltano](https://meltano.com/)               | :+1: |                                                           |
+| [Stitch](https://www.stitchdata.com/)         |      | Move data from multiple sources into a data warehouse     |
 | [Hevo](https://hevodata.com/)                 |      | Automated Data Pipelines to Redshift, BigQuery, Snowflake |
 | [Rivery](https://rivery.io/)                  |      | ETL Pipelines                                             |
 | [Fivetran](https://www.fivetran.com/)         |      | ETL Pipelines                                             |
@@ -43,18 +44,18 @@ ETL / ELT = Extract Transform Load
 | [Dask](https://www.dask.org/)                    | :+1: | Scale the Python tools you love                       |
 | [DBT-Core](https://github.com/dbt-labs/dbt-core) |      | Transform data                                        |
 
-## Data App Builder
+## Notebooks & Visualizations
 
-| Name                               | OSS | Comment                             |
-| :--------------------------------- | :-- | :---------------------------------- |
-| [Streamlit](https://streamlit.io/) |     | Build and share data apps in python |
-
-## Notebooks
-
-| Name                                    | OSS | Comment |
-| :-------------------------------------- | :-- | :------ |
-| [Observable](https://observablehq.com/) |     |         |
-| [Deepnote](https://deepnote.com/)       |     |         |
+| Name                                    | OSS  | Comment                             |
+| :-------------------------------------- | :--- | :---------------------------------- |
+| [Jupyter](https://jupyter.org/)         | :+1: |                                     |
+| [Observable](https://observablehq.com/) |      |                                     |
+| [Deepnote](https://deepnote.com/)       |      |                                     |
+| [Hex](https://hex.tech/)                |      |                                     |
+| [Streamlit](https://streamlit.io/)      |      | Build and share data apps in python |
+| [Steep](https://steep.app/)             |      |                                     |
+| [Hashboard](https://hashboard.com/)     |      |                                     |
+| [Metabase](https://www.metabase.com/)   |      |                                     |
 
 ## More resources
 
