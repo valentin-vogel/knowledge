@@ -24,3 +24,6 @@
 | [Pattern Pad](https://patternpad.com/)                                 | An online tool for creating custom CSS patterns and doodles.                             |
 | [Shapedivider App](https://www.shapedivider.app/)                      | An online tool for creating custom CSS shapes and animations.                            |
 | [Stitches.dev](https://stitches.dev/)                                  | CSS-in-JS customizable CSS components for building web applications.                     |
+| [Animate](https://animate.style/)                                      | CSS animations.                                                                          |
+| [CSS Animation](https://cssanimation.io/)                              | CSS animations.                                                                          |
+| [Panda CSS](https://panda-css.com/)                                    | CSS-in-JS                                                                                |
