@@ -16,23 +16,23 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.6.1",
-    "@docusaurus/preset-classic": "^3.6.1",
-    "@mdx-js/react": "^3.0.0",
-    "clsx": "^2.0.0",
-    "dotenv": "^16.4.5",
-    "prism-react-renderer": "^2.3.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
+    "@mdx-js/react": "^3.1.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.6.1",
+    "prism-react-renderer": "^2.4.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.2.1",
-    "@commitlint/config-conventional": "^19.1.0",
-    "@docusaurus/module-type-aliases": "^3.6.1",
-    "@docusaurus/types": "^3.6.1",
-    "@release-it/conventional-changelog": "^8.0.1",
-    "husky": "^9.0.11",
-    "release-it": "^17.1.1"
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@docusaurus/module-type-aliases": "^3.9.2",
+    "@docusaurus/types": "^3.9.2",
+    "@release-it/conventional-changelog": "^8.0.2",
+    "husky": "^9.1.7",
+    "release-it": "^17.11.0"
   },
   "browserslist": {
     "production": [
