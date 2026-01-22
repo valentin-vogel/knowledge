@@ -1,5 +1,0 @@
-{
-	"name": "Knowledge",
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bullseye",
-	"postCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && npm install -g npm@latest && npm install"
-}
