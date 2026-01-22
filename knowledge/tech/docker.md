@@ -5,16 +5,15 @@
 
 Some useful docker commands
 
-- [Docker](#docker)
+- [Docker Commands](#docker-commands)
 - [Docker Compose](#docker-compose)
 - [Docker Machine](#docker-machine)
   - [Create new server](#create-new-server)
   - [Update](#update)
   - [See Logs](#see-logs)
   - [Remove server](#remove-server)
-- [Resources](#resources)
 
-## Docker
+## Docker Commands
 
 ```sh
 # Create
